@@ -48,7 +48,7 @@ img {
     background-color: #9aabc5;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 10px;
 }
 
